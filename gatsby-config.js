@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `My Portfolio Alexcmartins`,
+    position: `Louco por Tecnologia`,
     description: `Aqui está meu portfolio, nele você irá conhecer os meus projetos e estudos.`,
     author: `@alexcmartins`,
   },
